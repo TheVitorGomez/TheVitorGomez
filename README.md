@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![SadVitorGomez's github stats](https://github-readme-stats.vercel.app/api?username=SadVitorGomez)](https://github.com/SadVitorGomez/github-readme-stats)
+[![SadVitorGomez's github stats](https://github-readme-stats.vercel.app/api?username=SadVitorGomez&show_icons=true)](https://github.com/SadVitorGomez/github-readme-stats)
 
 <!--
 **SadVitorGomez/SadVitorGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
