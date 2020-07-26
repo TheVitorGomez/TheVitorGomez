@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Vitor and welcome to my profile 👋
 [![SadVitorGomez's github stats](https://github-readme-stats.vercel.app/api?username=SadVitorGomez&show_icons=true&theme=dracula)](https://github.com/SadVitorGomez/github-readme-stats)
 
 <!--
