@@ -3,11 +3,11 @@
 ## I'm Student, Developer and passionate about tecnology😍 :
 
 - 🔞 I'm under age (15yo)
+- ☕ Always learning about everything
 - 📚 I'm currently learning ReactJS/React Native
-- ☕ 2020 Goals: Develop my first aplication and upload
+- 📌 2020 Goals: Develop my first aplication and upload
 - 💻 Less than 1 age of experience
 - 🚧 Working on self projects
-- 🎮 I Love to play games and code
 - 📝 Courses: [Danki Code][dankicode] / [Rocketseat][rocketseat]
 - 💭 Future Fullstack/mobile developer
 
@@ -33,8 +33,9 @@
 
 ---
 
+<br/>
+
 [![SadVitorGomez's github stats](https://github-readme-stats.vercel.app/api?username=SadVitorGomez&show_icons=true&theme=dracula)](https://github.com/SadVitorGomez/github-readme-stats)
- 
  
  [dankicode]: https://cursos.dankicode.com/
  [rocketseat]: https://app.rocketseat.com.br
