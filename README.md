@@ -1,11 +1,11 @@
 ### Hi there, my name is Vitor and welcome to my profile 👋
 
-## I'm Student, Developer and passionate about tecnology😍 :
+## I'm Student, Developer and passionate about technology😍 :
 
 - 🔞 I'm under age (15yo)
 - ☕ Always learning about everything
 - 📚 I'm currently learning ReactJS/React Native
-- 📌 2020 Goals: Develop my first aplication and upload
+- 📌 2020 Goals: Develop my first application and upload
 - 💻 Less than 1 age of experience
 - 🚧 Working on self projects
 - 📝 Courses: [Danki Code][dankicode] / [Rocketseat][rocketseat]
