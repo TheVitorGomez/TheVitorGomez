@@ -6,7 +6,7 @@
 - ☕ Always learning about everything
 - 📚 I'm currently learning ReactJS/React Native
 - 📌 2020 Goals: Develop my first application and upload
-- 💻 Less than 1 age of experience
+- 💻 Less than 1 year of experience
 - 🚧 Working on self projects
 - 📝 Courses: [Danki Code][dankicode] / [Rocketseat][rocketseat]
 - 💭 Future Fullstack/mobile developer
