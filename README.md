@@ -4,8 +4,8 @@
 
 - 🔞 I'm under age (15yo)
 - ☕ Always learning about everything
-- 📚 I'm currently learning ReactJS/React Native
-- 📌 2020 Goals: Develop my first application and upload
+- 📚 I'm currently learning Python/Machine Learning
+- 📌 2020 Goals: Create some automations with Python
 - 💻 Less than 1 year of experience
 - 🚧 Working on self projects
 - 📝 Courses: [Danki Code][dankicode] / [Rocketseat][rocketseat]
