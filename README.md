@@ -9,7 +9,7 @@
 - 💻 Less than 1 year of experience
 - 🚧 Working on self projects
 - 📝 Courses: [Danki Code][dankicode] / [Rocketseat][rocketseat]
-- 💭 Future Fullstack/mobile developer
+- 💭 Future Software Engineer
 
 ### Contact:
 
