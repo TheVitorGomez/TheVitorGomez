@@ -28,7 +28,7 @@
 <img align="left" alt="ES6+" width="26px" src="https://walde.co/wp-content/uploads/2016/05/es6-logo.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />
-<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png" />
+<img align="left" alt="Java" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
 
 <br/>
 <br/>
