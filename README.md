@@ -2,11 +2,10 @@
 
 ## I'm Student, Developer and passionate about technology😍 :
 
-- 🔞 I'm under age (15yo)
+- 🔞 I'm under age (16yo)
 - ☕ Always learning about everything
-- 📚 I'm currently learning Python/Machine Learning
-- 📌 2020 Goals: Create some automations with Python
-- 💻 Less than 1 year of experience
+- 📚 I'm currently learning React/Next.js
+- 💻 +1 year of experience
 - 🚧 Working on self projects
 - 📝 Courses: [Danki Code][dankicode] / [Rocketseat][rocketseat]
 - 💭 Future Software Engineer
