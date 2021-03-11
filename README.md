@@ -2,6 +2,7 @@
 
 ## I'm Student, Developer and passionate about technology😍 :
 
+- 🇧🇷 Brazilian
 - 🔞 I'm under age (16yo)
 - ☕ Always learning about everything
 - 📚 I'm currently learning React/Next.js
