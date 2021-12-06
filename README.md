@@ -5,7 +5,7 @@
 - 🇧🇷 Brazilian
 - 🔞 I'm under age (16yo)
 - ☕ Always learning about everything
-- 📚 I'm currently learning React/Next.js
+- 📚 I'm currently learning Back-end with Node.js
 - 💻 +1 year of experience
 - 🚧 Working on self projects
 - 📝 Courses: [Danki Code][dankicode] / [Rocketseat][rocketseat]
