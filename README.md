@@ -11,7 +11,7 @@
 - 📝 Courses: [Danki Code][dankicode] / [Rocketseat][rocketseat]
 - 💭 Future Software Engineer
 
-### Contact (DM me to know me better):
+### DM me to know me better:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png" />][twitter]
@@ -23,15 +23,9 @@
 
 <br/>
 
-<a href="https://github.com/SadVitorGomez/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadVitorGomez&layout=compact"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadVitorGomez&layout=compact)](https://github.com/SadVitorGomez/github-readme-stats)
 
-<br/>
-
-<a href="https://github.com/SadVitorGomez/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SadVitorGomez&show_icons=true&theme=radical">
-</a>
+[![SadVitorGomez's github stats](https://github-readme-stats.vercel.app/api?username=SadVitorGomez&show_icons=true&theme=radical)](https://github.com/SadVitorGomez/github-readme-stats)
 
 [dankicode]: https://cursos.dankicode.com/
 [rocketseat]: https://app.rocketseat.com.br
