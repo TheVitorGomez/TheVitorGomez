@@ -5,11 +5,11 @@
 - 🇧🇷 Brazilian
 - 🔞 I'm under age (17yo)
 - ☕ Always learning about everything
-- 📚 I'm currently learning Back-end with Node.js
+- 📚 I'm currently learning Blockchain
 - 💻 +2 year of experience
 - 🚧 Working on self projects
 - 📝 Courses: [Danki Code][dankicode] / [Rocketseat][rocketseat]
-- 💭 Future Software Engineer
+- 💭 Future Devops Engineer
 
 ### DM me to know me better:
 
