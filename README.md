@@ -38,6 +38,6 @@
 [coursera]: https://www.coursera.org/
 [dankicode]: https://cursos.dankicode.com/
 [rocketseat]: https://app.rocketseat.com.br
-[linkedin]: https://www.linkedin.com/in/vitor-katakura-9485031ab/
+[linkedin]: https://www.linkedin.com/in/vitor-hideki-katakura-9485031ab/
 [twitter]: https://twitter.com/TheVitorGomez
 [instagram]: https://www.instagram.com/thevitorgomez/
