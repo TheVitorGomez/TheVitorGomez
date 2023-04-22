@@ -1,6 +1,6 @@
 ### Hi there, my name is Vitor and welcome to my profile 👋
 
-## I'm Student, Developer and passionate about technology😍 :
+## I'm Student, Developer and passionate about technology 😍 :
 
 - 🇧🇷 Brazilian
 - 🏫 Studying Computer Engineering at [Insper][insper]
