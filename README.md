@@ -4,7 +4,7 @@
 
 - 🇧🇷 Brazilian
 - 🏫 Studying Computer Engineering at [Insper][insper]
-- 💻 +3 years programming
+- 💻 +4 years programming
 - 🚧 Working on college projects
 - 📝 Courses: [Danki Code][dankicode] / [Rocketseat][rocketseat] / [Coursera][coursera]
 - 💭 Future Engineer
