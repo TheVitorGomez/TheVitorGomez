@@ -13,8 +13,6 @@
 ### DM me to know me better:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />][twitter]
-[<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
 
 <br/>
 
@@ -38,6 +36,4 @@
 [coursera]: https://www.coursera.org/
 [dankicode]: https://cursos.dankicode.com/
 [rocketseat]: https://app.rocketseat.com.br
-[linkedin]: https://www.linkedin.com/in/vitor-hideki-katakura-9485031ab/
-[twitter]: https://twitter.com/TheVitorGomez
-[instagram]: https://www.instagram.com/thevitorgomez/
+[linkedin]: https://www.linkedin.com/in/vitor-katakura/
