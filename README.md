@@ -1,14 +1,18 @@
-### Hi there, my name is Vitor and welcome to my profile 👋
+# Hi there, my name is Vitor and welcome to my profile 👋
+
 
 ## I'm Student, Developer and passionate about technology 😍 :
 
 - 🇧🇷 Brazilian
 - 🏫 Studying Computer Engineering at [Insper][insper]
-- 💻 +4 years programming
 - 🚧 Working on college projects
 - 📝 Courses: [Danki Code][dankicode] / [Rocketseat][rocketseat] / [Coursera][coursera]
 - 💭 Future Engineer
 - 💬 Languages: Portuguese 🇧🇷, Spanish 🇪🇸, English 🇬🇧
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,figma,react,nodejs,arduino)](https://skillicons.dev)
 
 ### DM me to know me better:
 
