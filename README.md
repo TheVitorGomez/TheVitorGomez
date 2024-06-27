@@ -12,7 +12,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,figma,react,nodejs,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,figma,react,nextjs,nodejs,nestjs,prisma,postgres)](https://skillicons.dev)
 
 ### DM me to know me better:
 
